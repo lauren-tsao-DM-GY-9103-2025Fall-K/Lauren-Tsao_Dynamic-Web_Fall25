@@ -7,23 +7,22 @@ const App = () => {
     return (
         <div className="card">
 
-            <div class="photo">
+            <div className="photo">
             <img src={RECIPE_IMG} alt="yummy pancake" />
             </div>
 
-        <div class="title"><h2>{RECIPE.title}</h2>
-        <p>Recipe Description</p>
+        <div className="title"><h2>{RECIPE.title}</h2>
+        <p>{RECIPE.description}</p>
         </div>
 
-        <div class="ingredients"><h3>Ingredients</h3>
-        <ul>
+        <div className="ingredients"><h3>Ingredients</h3>
         <ul>{RECIPE.ingredients.map((item, index) => {
             return <li key={index}>{item}</li>
-        })}</ul>
+        })}
         </ul>
         </div>
 
-        <div class="instructions"><h3>Instructions</h3>
+        <div className="instructions"><h3>Instructions</h3>
         <ol>
             {RECIPE.instructions.map((item, index) => (
             <li key={index}>{item}</li>
