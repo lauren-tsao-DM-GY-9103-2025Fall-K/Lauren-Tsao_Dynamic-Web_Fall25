@@ -20,14 +20,14 @@ const Navbar = () => {
       </NavLink>
 
       <NavLink
-        to="/accordion"
+        to="/about"
         className={({ isActive }) => (isActive ? activeClass : baseClass)}
       >
         About Me
       </NavLink>
 
       <NavLink
-        to="/dropdown"
+        to="/projects"
         className={({ isActive }) => (isActive ? activeClass : baseClass)}
       >
         Projects
