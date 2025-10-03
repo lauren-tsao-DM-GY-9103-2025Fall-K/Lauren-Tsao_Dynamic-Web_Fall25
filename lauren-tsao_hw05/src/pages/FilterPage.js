@@ -14,7 +14,7 @@ const FilterPage = () => {
     setValue(option);
   };
   return (
-    <div className="flex flex-col items-center w-screen h-screen">
+    <div className="fixed flex flex-col items-center w-screen h-screen">
       <div className="p-3 main-font">Take a look at my projects!</div>
       <Filter options={OPTIONS} onChange={handleChange}></Filter>
       <div className="p-3 main-font">{value?.value || "Select a category above!"}</div> 

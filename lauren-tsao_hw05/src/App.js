@@ -11,8 +11,7 @@ const App = () => {
       <Navbar />
       <div className="col-span-5">
         <Routes>
-          <Route path="/" element={<FilterPage />} />
-          <Route path="/about" element={<AboutPage />} />
+          <Route path="/" element={<AboutPage />} />
           <Route path="/projects" element={<FilterPage />} />
         </Routes>
       </div>

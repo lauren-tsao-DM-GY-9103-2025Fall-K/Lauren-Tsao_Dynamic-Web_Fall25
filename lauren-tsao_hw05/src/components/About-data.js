@@ -1,7 +1,7 @@
 export const ABOUT = {
   title: "About Me",
   imgSrc: require("../assets/Me_circle_325px.png"),
-  description: "I am a motion designer with 7 years of experience",
+  description: "Hi! My name is Lauren. I am a motion designer with 7 years of experience.",
   tools: [
     "Figma",
     "Adobe Photoshop",

@@ -3,9 +3,9 @@ import ABOUT_IMG from "../assets/Me.gif";
 
 const AboutPage = () => {
   return (
-    <div className="flex justify-center items-center w-screen h-screen">
+    <div className="main-font flex justify-center items-center my-20">
       <div>
-        <img className="border border-black rounded-full w-80 mx-10" src={ABOUT_IMG} alt="self-portrait" />
+        <img className="border-2 border-black rounded-full w-80 mx-10" src={ABOUT_IMG} alt="self-portrait" />
       </div>
 
       <div>
@@ -16,7 +16,7 @@ const AboutPage = () => {
 
         <div className="flex">
           <div className="m-10">
-            <h2 className="text-xl font-bold">Ingredients</h2>
+            <h2 className="text-xl font-bold">Software</h2>
             <ul>
               {ABOUT.tools.map((item, index) => {
                 return <li key={index}>{item}</li>;
