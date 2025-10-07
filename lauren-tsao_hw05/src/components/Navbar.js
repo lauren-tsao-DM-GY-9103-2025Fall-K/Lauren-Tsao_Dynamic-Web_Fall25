@@ -1,16 +1,16 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import Panel from "./Panel";
 import Logo from "../assets/Me_circle_325px.png";
 
 const Navbar = () => {
-  const baseClass = "main-font border l-4 rounded-full text-white border-black  px-8 py-2";
+  const baseClass = "main-font rounded-t-lg l-4  text-white border border-white px-8 py-2 mx-2";
   const activeClass =
-    "main-font bg-white border l-4 rounded-full text-black border-blue-500 font-bold px-8 py-2";
+    "main-font bg-white rounded-t-lg l-4  text-black border border-white font-bold px-8 py-2 mx-2";
   return (
-    <Panel className="sticky top-0 flex bg-black items-center px-10 py-3">
+    <Panel className="sticky top-0 flex bg-black border border-white items-center px-10 pb-0">
         
-        <img src={Logo} alt="Logo" className="mr-10 mx-3 h-10 w-auto"/>
+        <img src={Logo} alt="Logo" className="mr-10 mx-3 h-10 w-auto -mt-5"/>
   
       <NavLink
         to="/"

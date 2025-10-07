@@ -1,21 +1,25 @@
 import { ABOUT } from "../components/About-data";
 import ABOUT_IMG from "../assets/Me.gif";
+import ABOUT_VIDEO from "../assets/EFE-AR-MANUAL_PRODUCT-REEL.mp4";
 
 const AboutPage = () => {
   return (
-    <div className="main-font flex justify-center items-center my-20">
+    <div className="main-font flex items-center justify-between my-10">
       <div>
-        <img className="border-2 border-black rounded-full w-80 mx-10" src={ABOUT_IMG} alt="self-portrait" />
-      </div>
+        <img className="border-2 border-black rounded-full w-40 ml-14 mb-8" src={ABOUT_IMG} alt="self-portrait" />
 
-      <div>
-        <div className="my-5">
+         <div className="w-52 ml-14">
           <h2 className="text-xl font-bold">{ABOUT.title}</h2>
           <p>{ABOUT.description}</p>
         </div>
+      </div>
 
-        <div className="flex">
-          <div className="m-10">
+      <video className="rounded-lg" width="60%" autoPlay muted loop>
+  <source src={ABOUT_VIDEO} type="video/mp4" />
+</video>
+
+<div>
+          <div className="mb-10 mr-8">
             <h2 className="text-xl font-bold">Software</h2>
             <ul>
               {ABOUT.tools.map((item, index) => {
@@ -24,7 +28,7 @@ const AboutPage = () => {
             </ul>
           </div>
 
-          <div className="m-10">
+          <div  className="mr-8">
             <h2 className="text-xl font-bold">Skills</h2>
             <ol>
               {ABOUT.skills.map((item, index) => (
@@ -33,8 +37,7 @@ const AboutPage = () => {
             </ol>
           </div>
         </div>
-      </div>
-    </div>
+        </div>
   );
 };
 
