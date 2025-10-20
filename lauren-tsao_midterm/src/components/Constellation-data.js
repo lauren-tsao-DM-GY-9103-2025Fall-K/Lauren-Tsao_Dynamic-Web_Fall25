@@ -1,0 +1,45 @@
+export const CONSTELLATION = {
+  aries: require("../assets/Constellations_Hovered/ARIES.png"),
+  taurus: require("../assets/Constellations_Hovered/TAURUS.png"),
+  gemini: require("../assets/Constellations_Hovered/GEMINI.png"),
+  cancer: require("../assets/Constellations_Hovered/CANCER.png"),
+  leo: require("../assets/Constellations_Hovered/LEO.png"),
+  virgo: require("../assets/Constellations_Hovered/VIRGO.png"),
+  libra: require("../assets/Constellations_Hovered/LIBRA.png"),
+  scorpio: require("../assets/Constellations_Hovered/SCORPIO.png"),
+  sagittarius: require("../assets/Constellations_Hovered/SAGITTARIUS.png"),
+  capricorn: require("../assets/Constellations_Hovered/CAPRICORN.png"),
+  aquarius: require("../assets/Constellations_Hovered/AQUARIUS.png"),
+  pisces: require("../assets/Constellations_Hovered/PISCES.png"),
+};
+
+export const CONSTELLATION_TEXT = {
+  mainText: require("../assets/Constellations_Home_Text/CONSTELLATION_TEXT.png"),
+  ariesText: require("../assets/Constellations_Home_Text/ARIES_TEXT.png"),
+  taurusText: require("../assets/Constellations_Home_Text/TAURUS_TEXT.png"),
+  geminiText: require("../assets/Constellations_Home_Text/GEMINI_TEXT.png"),
+  cancerText: require("../assets/Constellations_Home_Text/CANCER_TEXT.png"),
+  leoText: require("../assets/Constellations_Home_Text/LEO_TEXT.png"),
+  virgoText: require("../assets/Constellations_Home_Text/VIRGO_TEXT.png"),
+  libraText: require("../assets/Constellations_Home_Text/LIBRA_TEXT.png"),
+  scorpioText: require("../assets/Constellations_Home_Text/SCORPIO_TEXT.png"),
+  sagittariusText: require("../assets/Constellations_Home_Text/SAGITTARIUS_TEXT.png"),
+  capricornText: require("../assets/Constellations_Home_Text/CAPRICORN_TEXT.png"),
+  aquariusText: require("../assets/Constellations_Home_Text/AQUARIUS_TEXT.png"),
+  piscesText: require("../assets/Constellations_Home_Text/PISCES_TEXT.png"),
+};
+
+export const CONSTELLATION_UNHOVERED = {
+  ariesUnhovered: require("../assets/Constellations_unHovered/ARIES_UNHOVERED.png"),
+  taurusUnhovered: require("../assets/Constellations_unHovered/TAURUS_UNHOVERED.png"),
+  geminiUnhovered: require("../assets/Constellations_unHovered/GEMINI_UNHOVERED.png"),
+  cancerUnhovered: require("../assets/Constellations_unHovered/CANCER_UNHOVERED.png"),
+  leoUnhovered: require("../assets/Constellations_unHovered/LEO_UNHOVERED.png"),
+  virgoUnhovered: require("../assets/Constellations_unHovered/VIRGO_UNHOVERED.png"),
+  libraUnhovered: require("../assets/Constellations_unHovered/LIBRA_UNHOVERED.png"),
+  scorpioUnhovered: require("../assets/Constellations_unHovered/SCORPIO_UNHOVERED.png"),
+  sagittariusUnhovered: require("../assets/Constellations_unHovered/SAGITTARIUS_UNHOVERED.png"),
+  capricornUnhovered: require("../assets/Constellations_unHovered/CAPRICORN_UNHOVERED.png"),
+  aquariusUnhovered: require("../assets/Constellations_unHovered/AQUARIUS_UNHOVERED.png"),
+  piscesUnhovered: require("../assets/Constellations_unHovered/PISCES_UNHOVERED.png"),
+};
