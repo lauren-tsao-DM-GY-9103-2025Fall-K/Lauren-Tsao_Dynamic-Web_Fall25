@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 const ImageHover = ({
   className = "w-60 z-5",
