@@ -21,19 +21,19 @@ I was always fascinated with horoscopes, so I wanted to create a website where t
 
 ## Visual References & chosen API
 
-I started gathering visual references on how I would like the overall aesthetic the website should take on. I created a Pinterest board which can be viewed [here](https://www.pinterest.com/enweitsao/dynamic-web-midterm/)
+I started gathering visual references on how I would like the overall aesthetic the website should take on. I created a Pinterest board which can be viewed [here](https://www.pinterest.com/enweitsao/dynamic-web-midterm/).
 
 Finding the API was a challenge. I had one that was free with unlimited tokens, but unfortunately it was blocked by CORS Policy. I eventually found and used [this one](https://www.api-ninjas.com/api/horoscope) created by API Ninjas. 
 
 ## Milestone #1 - Creating the visual components
 
-I wanted the Zodiacs to reveal themselves and their names when the user hovers their mouse over them. So I proceeded to create them using Figma, shown [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=2004-4&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+I wanted the Zodiacs to reveal themselves and their names when the user hovers their mouse over them. So I proceeded to create them using Figma, shown [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=2004-4&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
 
 ## Milestone #2 - API Set-up & creating a data sheet for visual components
 
 As taught in class, I proceeded to set up the API titled 'api.js' based on the code that Professor Adee provided.
 
-Applying what I learned during the recipe-card tutorial in Week 02, I created a data sheet titled 'Constellation-data.js' to hold all my visual components to be called throughout the project, shown [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=10-53&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+Applying what I learned during the recipe-card tutorial in Week 02, I created a data sheet titled 'Constellation-data.js' to hold all my visual components to be called throughout the project, shown [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=10-53&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
 
 ## Milestone #3 - Building the Components in React
 
@@ -197,4 +197,4 @@ I am overall satisfied with the outcome, but if I were to revisit this project a
 
 ## Presentation Deck
 
-The link to the presentation deck of this project can be viewed [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=1-42&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+The link to the presentation deck of this project can be viewed [here](https://www.figma.com/deck/NzcojBLfEuYpENr5VyH1NE/Lauren-Tsao---Dynamic-Web-Mid-term-Presentation?node-id=1-42&viewport=-1066%2C-708%2C0.46&t=Q5Qy0wldm5qpr0Yc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
