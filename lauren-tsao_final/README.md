@@ -8,14 +8,14 @@ The final project for the Fall 2025 Semester displaying an understanding of the 
 - JSON Server
 - Redux
 
-The project can be done through 2 options: 
+The project can be done through 2 options, as follows. 
 
 ### Option A
 
 Re-skin the in-class Todo List App into something more specific. It must include the following:
 
 - Styling
-- Adding more input fields to make the usage of your app more specific.
+- Adding more input fields to make the usage of the app more specific
 
 For example: Turning the generic todo list into an exercise tracker. Maybe some color coding can be added, or a way to filter or search existing todos.
 
