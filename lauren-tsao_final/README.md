@@ -1,4 +1,4 @@
-# DM-GY 9103: Dynamic Web - Mid-term Project
+# DM-GY 9103: Dynamic Web - Final Project
 
 ## Brief
 
