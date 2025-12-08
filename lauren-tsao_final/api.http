@@ -1,0 +1,27 @@
+### GET All Flashcards
+GET http://localhost:3001/flashcards HTTP/1.1
+Content-Type: application/json
+
+### POST (i.e create) a New Flashcard
+POST http://localhost:3001/flashcards HTTP/1.1
+Content-Type: application/json
+
+{
+  "question" : "to eat (plain)",
+  "answer": "たべる / 食べる",
+  "color" : "N3"
+}
+
+### PUT/PATCH (i.e edit) an existing flashcard by id
+PUT http://localhost:3001/flashcards/1 HTTP/1.1
+Content-Type: application/json
+
+{
+  "question" : "to buy (formal)",
+  "answer": "かいます / 買います",
+  "color" : "N5"
+}
+
+### DELETE an existing flashcard by id
+DELETE http://localhost:3001/flashcards/1 HTTP/1.1
+Content-Type: application/json

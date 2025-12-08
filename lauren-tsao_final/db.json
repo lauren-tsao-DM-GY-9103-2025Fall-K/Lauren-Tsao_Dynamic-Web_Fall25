@@ -1,0 +1,88 @@
+{
+  "flashcards": [
+    {
+      "question": "to buy (formal)",
+      "answer": "かいます / 買います",
+      "color": "#FFE100",
+      "id": 1
+    },
+    {
+      "question": "たべる",
+      "answer": "to eat",
+      "color": "#FFE100",
+      "id": 2
+    },
+    {
+      "question": "あたらしい",
+      "answer": "new",
+      "color": "#FFE100",
+      "id": 3
+    },
+    {
+      "question": "to eat (plain)",
+      "answer": "たべる / 食べる",
+      "color": "#FFE100",
+      "id": 8
+    },
+    {
+      "question": "待ち時間はどのくらいですか？",
+      "answer": "How long is the waiting time?",
+      "color": "#FFE100",
+      "id": 10
+    },
+    {
+      "question": "について",
+      "answer": "about / concerning --> 日本の文化について勉強しています",
+      "color": "#FFE100",
+      "id": 11
+    },
+    {
+      "question": "Rank trademark types from strongest to weakest",
+      "answer": " Distinctive or Fanciful, Arbitrary, Suggestive, Descriptive, Generic",
+      "color": "#0EACF0",
+      "id": 47
+    },
+    {
+      "question": "What is the Polaroid test used for?",
+      "answer": "To determine if there is a likelihood of confusion between 2 marks",
+      "color": "#0EACF0",
+      "id": 48
+    },
+    {
+      "question": "What is the contributory infringement doctrine?",
+      "answer": "Having the knowledge of infringing activity but contributes to infringing conduct.",
+      "color": "#0EACF0",
+      "id": 49
+    },
+    {
+      "question": "What are the two types of contributory infringement?",
+      "answer": "Personal conduct & contribution from machinery or goods",
+      "color": "#0EACF0",
+      "id": 50
+    },
+    {
+      "question": "What is the vicarious copyright infringement doctrine?",
+      "answer": "Turning a blind eye to detectable acts of infringement for the sake of profit.",
+      "color": "#0EACF0",
+      "id": 51
+    },
+    {
+      "question": "What is the DMCA?",
+      "answer": "Digital Millennium Copyright Act: It is a federal statute addressing copyright issues arising from digital technology and the internet",
+      "color": "#0EACF0",
+      "id": 52
+    },
+    {
+      "question": "What dance moves are NOT copyrightable?",
+      "answer": "Celebratory end zone, making letters with body, yoga poses",
+      "color": "#0EACF0",
+      "id": 53
+    },
+    {
+      "question": "What makes a unilateral contract different from a bilateral contract?",
+      "answer": "In everyday terms, a unilateral contract is like a one-sided promise: one person promises to do something if the other person actually does a specific action. A bilateral contract is more like a two-way promise—both people agree to do something for each other upfront.",
+      "color": "#0EACF0",
+      "id": 54
+    }
+  ]
+}
