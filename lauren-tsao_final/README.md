@@ -381,7 +381,13 @@ Finally, these sortable flashcards would be rendered within the SortableContext 
 
 ## Next Steps
 
-ANIMATION
+Now that the project is up and running, I would like to add more animations to make the app more fun to interact with! Some examples I can think of are:
+- Having a delayed push back when the flashcards are let go after dragging
+- Have the flashcards sway a little when they are being dragged around
+- Have other flashcard wobble a bit when they are 'pushed aside' to make way for an incoming drop
+- Have an indicator on the mouse when it hovers over a flashcard in the list that says 'drag me!'
+
+Another option I would like add is a shuffle option where I can shuffle flashcards in the list.
 
 ## Presentation Deck
 
