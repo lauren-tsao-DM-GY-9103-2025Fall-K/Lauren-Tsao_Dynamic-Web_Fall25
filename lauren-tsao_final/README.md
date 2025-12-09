@@ -389,6 +389,6 @@ Now that the project is up and running, I would like to add more animations to m
 
 Another option I would like add is a shuffle option where I can shuffle flashcards in the list.
 
-## Presentation Deck
+## Final Presentation Deck
 
-The link to the presentation deck of this project can be viewed [here](https://www.figma.com/deck/mooccAG3GjqGNF3sMIpquX/Lauren-Tsao---Dynamic-Web-Final-Project-Presentation?node-id=1-42&viewport=-125%2C-86%2C0.67&t=JgM6d6CSunKxqPwJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+This presentation deck contains a walkthrough of how I built the flashcard app, future steps, and references. The link to the deck can be viewed [here](https://www.figma.com/deck/mooccAG3GjqGNF3sMIpquX/Lauren-Tsao---Dynamic-Web-Final-Project-Presentation?node-id=1-42&viewport=-125%2C-86%2C0.67&t=JgM6d6CSunKxqPwJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).
